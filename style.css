@@ -1,0 +1,25 @@
+p{
+    color:rgba(7, 1, 20, 0.705) ;
+    border: 2px solid black;
+    padding:20px ;
+    background-image: url("");
+    
+}
+table,th,td{
+    border:3px;
+    border-style:solid;
+    width:30%;
+}
+li{
+    list-style-type:circle;
+}
+img{
+    width:800px;
+    height: 400px;
+}
+.head{
+    color:cadetblue;
+}
+#HELLO{
+    color:black;
+}
